@@ -8,7 +8,7 @@ Aplicación de ecommerce que integra la API de Paypal, se utilizó typescript, r
 
 ## Resultados
 
-![resultado1](.\results\merch.png)
+![resultado1](./results/merch.png)
 
 ![resultado1](./results/merch-list.png)
 
